@@ -1,4 +1,4 @@
-configuration {{cookiecutter.project_slug}}
+configuration {{cookiecutter.project_name}}
 {
     param (
         [ValidateSet('Present', 'Absent')]
