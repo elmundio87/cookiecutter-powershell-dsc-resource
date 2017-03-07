@@ -1,0 +1,9 @@
+{
+  "full_name": "Edmund Dipple",
+  "email": "elmundio1987@gmail.com",
+  "company": "DevOpsGuys",
+  "project_name": "Powershell DSC Resource Boilerplate",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "project_short_description": "Powershell DSC Resource Boilerplate contains all the boilerplate you need to create a DSC resource.",
+  "version": "1.0.0"
+}
